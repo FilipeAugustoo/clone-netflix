@@ -229,14 +229,83 @@ section {
 	transform: scale(1.1);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 495px) {
     .banner img {
-        margin-left: -480px;
+        margin-left: -15px;
+        width: 400px;
+    }
+
+    .logo img {
+        width: 20px;
+        margin-left: 0px;
+        margin-top: 0px;
     }
 
     section {
-        width: 1060px;
+        margin-top: -50px;
+        width: 656px;
         height: 565px;
+    }
+    
+    .slider {
+        margin-top: -10px;
+    }
+
+    .msg h2 {
+        margin-top: -60px;
+    }
+
+    .msg1 {
+        margin-top: 150px;
+    }
+
+    .nome h1 {
+        position: absolute;
+        margin-top: 450px;
+        font-size: 20px;
+        margin-left: -20px;
+    }
+
+    .nome h2 {
+        margin-top: 500px;
+        font-size: 5px;
+        margin-left: -20px;
+    }
+
+    .botoes #botao1 {
+        opacity: 100%;
+        margin-top: 500px;
+        margin-left: -20px;
+    }
+
+    .textbutton p {
+        margin-top: -248px;
+        margin-left: 26px;
+    }
+
+    .textbutton2 p {
+        margin-top: -248px;
+        margin-left: 110px;
+    }
+
+    .slider1 {
+        margin-top: 250px;
+    }
+
+    .slider .foto1 {
+        width: 170px;
+        margin-left: 5px;
+    }
+
+    .slider .foto2 {
+        width: 170px;
+        margin-left: 190px;
+    }
+
+    .slider .foto3 {
+        margin-top: -600px;
+        margin-left: 500px;
+        opacity: 0%;
     }
 
     .slider .foto5 {
@@ -262,4 +331,5 @@ section {
         margin-left: 500px;
         opacity: 0%;
     }
+
 }
