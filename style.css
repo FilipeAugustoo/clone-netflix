@@ -228,3 +228,38 @@ section {
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
 }
+
+@media screen and (max-width: 600px) {
+    .banner img {
+        margin-left: -480px;
+    }
+
+    section {
+        width: 1060px;
+        height: 565px;
+    }
+
+    .slider .foto5 {
+        margin-top: -600px;
+        margin-left: 500px;
+        opacity: 0%;
+    }
+
+    .slider .foto4 {
+        margin-top: -600px;
+        margin-left: 500px;
+        opacity: 0%;
+    }
+
+    .slider1 .foto9 {
+        margin-top: -600px;
+        margin-left: 500px;
+        opacity: 0%;
+    }
+
+    .slider1 .foto10 {
+        margin-top: -600px;
+        margin-left: 500px;
+        opacity: 0%;
+    }
+}
