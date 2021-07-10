@@ -1,0 +1,230 @@
+body {
+    background-color: rgb(41, 41, 41);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo img {
+    position: absolute;
+    width: 35px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.banner img {
+    width: 1525px;
+    margin-left: -15px;
+    margin-top: -15px;
+}
+
+.nome {
+    position: absolute;
+    color: white;
+    margin-top: -600px;
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.nome h2 {
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+.botoes {
+    position: absolute;
+    margin-top: -475px;
+    opacity: 5%;
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+.botoes #botao1 {
+    width: 80px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+}
+
+.botoes #botao2 {
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+}
+
+.textbutton p {
+    position: absolute;
+    margin-top: -441px;
+    margin-left: 47.4px;
+    font-size: 13px;
+}
+
+.textbutton2 p {
+    position: absolute;
+    margin-top: -441px;
+    margin-left: 130.7px;
+    font-size: 13px;
+}
+
+section {
+    position: absolute;
+    background-color: rgb(48, 48, 48);
+    width: 1526px;
+    height: 550px;
+    margin-left: -15px;
+    margin-top: -250px;
+    box-shadow: 5px -100px 1000px rgba(32, 32, 32, 0.548);
+}
+
+.msg h2 {
+    position: absolute;
+    color: white;
+    margin-top: -230px;
+    margin-left: 10px;
+}
+
+.slider {
+    position: absolute;
+    margin-top: -150px;
+}
+
+.slider .foto1 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.slider .foto1:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.slider .foto2 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 300px;
+}
+
+.slider .foto2:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.slider .foto3 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 590px;
+}
+
+.slider .foto3:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.slider .foto4 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 880px;
+}
+
+.slider .foto4:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.slider .foto5 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 1170px;
+}
+
+.slider .foto5:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.slider1 {
+    position: absolute;
+    margin-top: 100px;
+}
+
+.msg1 {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.slider1 .foto6 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.slider1 .foto6:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.slider1 .foto7 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 300px;
+}
+
+.slider1 .foto7:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.slider1 .foto8 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 590px;
+}
+
+.slider1 .foto8:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.slider1 .foto9 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 880px;
+}
+
+.slider1 .foto9:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.slider1 .foto10 {
+    width: 280px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 1170px;
+}
+
+.slider1 .foto10:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
